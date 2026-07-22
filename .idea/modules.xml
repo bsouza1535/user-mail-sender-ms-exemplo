@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/user-mail-sernder-ms-exemplo.iml" filepath="$PROJECT_DIR$/.idea/user-mail-sernder-ms-exemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/user-mail-sender-ms.iml" filepath="$PROJECT_DIR$/.idea/user-mail-sender-ms.iml" />
     </modules>
   </component>
 </project>
