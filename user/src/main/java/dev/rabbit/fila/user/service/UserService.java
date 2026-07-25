@@ -2,13 +2,11 @@ package dev.rabbit.fila.user.service;
 import dev.rabbit.fila.user.domain.UserModel;
 import dev.rabbit.fila.user.dto.UserDto;
 import dev.rabbit.fila.user.producer.UserProducer;
-import dev.rabbit.fila.user.repositorie.UserRepository;
+import dev.rabbit.fila.user.repository.UserRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 import dev.rabbit.fila.user.exception.NotFoundException;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.PutMapping;
 
 import java.util.List;
 import java.util.UUID;
